@@ -19,10 +19,12 @@ An advanced Retrieval-Augmented Generation (RAG) pipeline built to navigate, sea
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Set your Google API Key: `export GOOGLE_API_KEY="your_api_key_here"`
-3. Build the Vector Database: `python build_db.py`
-4. Run the App: `python app.py`
+3. Build the Vector Database: `data_pipeline.ipynb`
+4. Run the App: `test.ipynb`
 
+
+## ⚙️ How to Run Locally
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone [https://github.com/MuaathAlshehri/NEZAMY_RAG.git](https://github.com/MuaathAlshehri/NEZAMY_RAG.git)
+   cd NEZAMY_RAG
